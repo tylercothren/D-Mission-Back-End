@@ -1,0 +1,7 @@
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-04-26T23:16:17.673Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-04-26T23:16:18.698Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-04-26T23:51:20.548Z"}
+{"level":"error","message":"Connection error: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: connect EHOSTUNREACH 172.18.0.2:27017]","timestamp":"2018-04-26T23:51:23.667Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-04-26T23:52:37.575Z"}
+{"level":"info","message":"New user - myapi:abc1234","timestamp":"2018-04-26T23:52:39.620Z"}
+{"level":"info","message":"New client - android:SomeRandomCharsAndNumbers","timestamp":"2018-04-26T23:52:39.624Z"}
